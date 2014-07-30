@@ -5,7 +5,6 @@
     "boot": {
       "default_bundle": {
         "development_environment": {
-          "prerake": {"rake": []},
           "console": ["c"],
           "server": ["s"]
         }
